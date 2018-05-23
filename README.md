@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Dudas et al., "MERS-CoV spillover at the camel-human interface". eLife, 2017. http://dx.doi.org/10.7554/eLife.31257
+
+
+
 # MERS-CoV spillover at the camel-human interface
 
 #### Gytis Dudas<sup>1</sup>, Luiz Max Carvalho<sup>2</sup>, Andrew Rambaut<sup>2,3,4</sup>, Trevor Bedford<sup>1</sup>
